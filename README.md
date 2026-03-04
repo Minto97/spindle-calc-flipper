@@ -56,12 +56,6 @@ Enter the total **horizontal length** between posts. The app calculates count an
 
 ---
 
-## Spindle sizes supported
-
-12 mm · 13 mm · 25 mm · 32 mm · 35 mm · 38 mm · 41 mm · 42 mm · 44 mm · 47 mm · 50 mm
-
----
-
 ## Building
 
 Requires the [Flipper Zero firmware SDK](https://github.com/flipperdevices/flipperzero-firmware) or [uFBT](https://github.com/flipperdevices/flipperzero-ufbt).
